@@ -1,0 +1,9 @@
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\bin\Debug\FormExample.exe.config
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\bin\Debug\FormExample.exe
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\bin\Debug\FormExample.pdb
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.csprojResolveAssemblyReference.cache
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.Properties.Resources.resources
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.csproj.GenerateResource.Cache
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.exe
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.pdb
+C:\Users\employee\Documents\Visual Studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.Form1.resources
